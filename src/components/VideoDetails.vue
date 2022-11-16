@@ -5,7 +5,7 @@
     let description = ref('');
 
     onMounted(() => {
-        let api_url = "http://localhost:5173/tiktok.json";
+        let api_url = "https://app.fakejson.com/q/MqAtrcgD?token=AR4rfmauSfMqhaWv7wTauQ";
         fetch(api_url)
             .then(response => response.json())
             .then(data => {
