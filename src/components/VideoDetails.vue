@@ -25,6 +25,6 @@
 <style scoped>
     div{
         padding: 0 1rem;
-        height: 30%;
+        height: 20vh;
     }
 </style>
