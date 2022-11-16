@@ -52,5 +52,6 @@
     div{
         padding: 0 1rem;
         height: 80vh;
+        overflow-y: scroll;
     }
 </style>
